@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm Bishal!
+🎓 Computer Science Student | 🌐 Interested in Cybersecurity & IT | 💻 Learning GitHub & Web Development
 
-<!--
-**bishal673/bishal673** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🔭 Currently learning: Google Cybersecurity Certificate
+- 🧠 Skills: Python, HTML, CSS, Git, Networking Basics
+- 🌍 From: Nepal
 
-Here are some ideas to get you started:
+## 🛠️ Tech Skills
+- Programming: Python, C, HTML, CSS
+- Tools: Git, GitHub, GitHub Desktop, VS Code
+- Interests: Ethical Hacking, Web Security
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📬 Connect with Me
+📧 Email – bcbishal673@gmail.com  
